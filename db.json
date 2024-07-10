@@ -1,9 +1,20 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "videos": [],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Front End",
+      "color": "#6BD1FF"
+    },
+    {
+      "id": "2",
+      "name": "Back End",
+      "color": "#00C86F"
+    },
+    {
+      "id": "3",
+      "name": "Innovation",
+      "color": "#FFBA05"
+    }
+  ]
 }
